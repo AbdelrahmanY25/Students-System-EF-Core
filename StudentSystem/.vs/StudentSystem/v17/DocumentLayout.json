@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\migrations\\20240920135351_seedsomedatainthedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\migrations\\20240920135351_seedsomedatainthedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|d:\\my_projects\\back end c# asp .net\\ef core\\ef02 eraasoft .net 506\\assi_2\\studentsystem\\studentsystem\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A022A9F2-2A74-4D41-9276-24157D47F712}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240920135351_SeedSomeDataInTheDatabase.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Migrations\\20240920135351_SeedSomeDataInTheDatabase.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Migrations\\20240920135351_SeedSomeDataInTheDatabase.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Migrations\\20240920135351_SeedSomeDataInTheDatabase.cs",
+              "RelativeToolTip": "StudentSystem\\Migrations\\20240920135351_SeedSomeDataInTheDatabase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:53:51.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeWork.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\HomeWork.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Models\\HomeWork.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\HomeWork.cs",
+              "RelativeToolTip": "StudentSystem\\Models\\HomeWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:43:03.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Models\\Resource.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Resource.cs",
+              "RelativeToolTip": "StudentSystem\\Models\\Resource.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:41:15.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Models\\Student.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentSystem\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:33:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Models\\Course.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Models\\Course.cs",
+              "RelativeToolTip": "StudentSystem\\Models\\Course.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:39:08.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "StudentSystem\\Data\\StudentSystemContext.cs",
+              "ToolTip": "D:\\My_Projects\\Back End C# Asp .Net\\EF Core\\EF02 Eraasoft .Net 506\\Assi_2\\StudentSystem\\StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "StudentSystem\\Data\\StudentSystemContext.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:31:26.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
